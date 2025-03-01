@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* Global Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}
+
+/* Header Section */
+header {
+  background: linear-gradient(135deg, #1a73e8, #4285f4);
+}
+
+/* Section Headings */
+h2 {
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+/* Table Styling Overrides */
+table {
+  background: #fff;
+}
+
+/* Footer Styling */
+footer {
+  background-color: #343a40;
+}
